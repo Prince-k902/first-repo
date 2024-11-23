@@ -1,2 +1,2 @@
 # first-repo
-Today is start using git and github.
+Today I start using git and github.
